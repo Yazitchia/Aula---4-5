@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Comptible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twylify</title>
+
+    <link rel="stylesheet" href="./src/styles/reset.css">
+    <link rel="stylesheet" href="./src/styles/vars.css">
+    <link rel="stylesheet" href="./src/styles/sidebar-footer.css">
+    <link rel="stylesheet" href="./src/styles/main-content.css">
+    <link rel="stylesheet" href="./src/styles/media-queries.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css"
+    integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css"
+    integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous" />
+    
+</head>
+
+<body>
+    <div class="sidebar">
+        <nav class="sidebar__navigation">
+            <div class="logo">
+                <a href="">
+                    <img src="./src/assets/icons/download-removebg-preview.png" alt="Spotify logo"/>
+                </a>
+            </div>
+            <ul>
+                <li>
+                    <a href="">
+                        <span class="fa fa-home"></span>
+                        <span>Gravepage</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        <span class="fa fa-search"></span>
+                        <span>Search</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="library">
+            <div class="library__content">
+                <button class="library__button">
+                    <span class="fa fas fa-book"></span>
+                    <span>Your library</span>
+                </button>
+                <span class="fa fa-plus"></span>
+            </div>
+            <section class="section-playlist">
+                <div class="section-playlist__content">
+                    <span class="text title">Create your first playlist!</span>
+                    <span class="text subtitle">It's easy, we can help you ghoul!</span>
+                    <button class="section-playlist__button">
+                        <span>Create playlist</span>
+                    </button>
+                </div>
+            </section>
+
+            <div class="spookies">
+                <a href="">spookies</a>
+            </div>
+            <div class="languages">
+                <button class="languages__button">
+                    <span class="fa fa-globe"></span>
+                    <span>Monster English</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+<main>
+    <div class="main-container">
+        <nav class="header__navigation">
+            <div class="navigation">
+                <button class="arrow-left">
+                    <img src="./src/assets/icons/small-arrow-icon-10__1__24x24-removebg-preview.png" alt="left arrow">
+                </button>
+                <button class="arrow-right">
+                    <img src="./src/assets/icons/small-arrow-icon-10__2__24x24-removebg-preview.png" alt="right arrow">
+                </button>
+            </div>
+                <div class="header__search">
+                    <img src="./src/assets/icons/eyeball-removebg-preview.png" alt="">
+                    <input id="search-input" type="text" maxlength="800" placeholder="What do your ears crave?"/>
+                </div>
+                <div class="header__login">
+                    <button class="subscribe">Suuuhbscribe</button>
+                    <button class="login">Enter</button>
+                </div>
+            </div>
+        </nav>
+        <div class="playlist-container">
+            <div id="result-playlists">
+                <div class="playlist">
+                    <h1 id="greeting">Navigate through all crypts</h1>
+                    <h2 class="session"></h2>
+                </div>
+                <div class="offer__scroll-container">
+                    <div class="offer__list">
+                        <section class="offer__list-item">
+                                            <!-- CARD 1 -->
+                            <a href="" class="cards">
+                                <div class="cards card1">
+                                    <img src="./src/assets/albums/cacupid_150x150.jpeg" alt="" />
+                                    <span>C. A. Cupid</span>
+                                </div>
+                            </a>         
+                            <a href="" class="cards">
+                                <div class="cards card2">
+                                    <img src="./src/assets/albums/sarahscreams_150x150.jpeg" alt="" />
+                                    <span>Sarah Screams</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card3">
+                                    <img src="./src/assets/albums/draculaura_150x150.jpeg" alt="" />
+                                    <span>Draculaura</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card4">
+                                    <img src="./src/assets/albums/TWYLAAA_150x150.jpeg" alt="" />
+                                    <span>Twyla Boogeyman</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card5">
+                                    <img src="./src/assets/albums/operetta_150x150.jpeg" alt="" />
+                                    <span>Operetta</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card6">
+                                    <img src="./src/assets/albums/cattynoir_150x150.jpeg" alt="" />
+                                    <span>Catty Noir</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card7">
+                                    <img src="./src/assets/albums/kiyomihaunterly_150x150.jpeg" alt="" />
+                                    <span>Kiyomi Haunterly</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card8">
+                                    <img src="./src/assets/albums/zombygaga_150x150.jpeg" alt="" />
+                                    <span>Zomby Gaga</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card9">
+                                    <img src="./src/assets/albums/toraleistripe_150x150.jpeg" alt="" />
+                                    <span>Toralei Stripe</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card10">
+                                    <img src="./src/assets/albums/gooliopejellington_150x150.jpeg" alt="" />
+                                    <span>Gooliope Jellington</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card11">
+                                    <img src="./src/assets/albums/castafierce_150x150.jpeg" alt="" />
+                                    <span>Casta Fierce</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card12">
+                                    <img src="./src/assets/albums/clawdeenwolf_150x150.jpeg" alt="" />
+                                    <span>Clawdeen Wolf</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card13">
+                                    <img src="./src/assets/albums/riverstixx_150x150.jpeg" alt="" />
+                                    <span>River Stixx</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card14">
+                                    <img src="./src/assets/albums/moanicadkay_150x150.jpeg" alt="" />
+                                    <span>Moanica D'Kay</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card15">
+                                    <img src="./src/assets/albums/elledee_150x150.jpeg" alt="" />
+                                    <span>Elle Dee</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card16">
+                                    <img src="./src/assets/albums/neferadenile_150x150.jpeg" alt="" />
+                                    <span>Nefera De Nile</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card17">
+                                    <img src="./src/assets/albums/lunamotthews_150x150.jpeg" alt="" />
+                                    <span>Luna Motthews</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card18">
+                                    <img src="./src/assets/albums/viperinegorgon_150x150.jpeg" alt="" />
+                                    <span>Viperine Gorgon</span>
+                                </div>
+                            </a>
+                            <a href="" class="cards">
+                                <div class="cards card19">
+                                    <img src="./src/assets/albums/gigigrant_150x150.jpeg" alt="" />
+                                    <span>Gigi Grant</span>
+                                </div>
+                            </a>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div id="result-artist" class="hidden">
+                <div class="grid-container">
+                    <div class="artist-card" id="">
+                        <div class="card-img">
+                            <img id="artist-img" class="artist-img" />
+                            <div class="play">
+                                <span class="fa fa-solid fa-play"></span>
+                            </div>
+                        </div>
+                        <div class="card-text">
+                            <a title="Viperine Gorgon" class="vst" href="">
+                            <span class="artist-name" id="artist-name"></span>
+                            <span class="artist-categorie">Artist</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="disclaimer-creepium">
+    <div class="text">
+        <p class="disclaimer-creepium__title">Try Creepium for free!</p>
+        <p class="disclaimer-creepium__subtitle">Subscribe to shake your body to unlimited music and podcaskets with few ads. Does not require credit card.</p>
+    </div>
+    <div class="button">
+        <button type="button">Subscribe for free</button>
+    </div>
+</footer>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>

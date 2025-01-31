@@ -1,0 +1,118 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Viperine Gorgon",
+        "genre": "R&B",
+        "img": "./src/assets/pfp/𝓥𝓲𝓹𝓮𝓻𝓲𝓷𝓮 𝓖𝓸𝓻𝓰𝓸𝓷.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Zomby Gaga",
+        "genre": "Pop",
+        "img": "./src/assets/pfp/zomby.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Moanica D'Kay",
+        "genre": "Hip Hop",
+        "img": "./src/assets/pfp/moanica.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Draculaura",
+        "genre": "Country",
+        "img": "./src/assets/pfp/Draculaura.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Luna Motthews",
+        "genre": "Funk",
+        "img": "./src/assets/pfp/Luna Mothews.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Twyla Boogeyman",
+        "genre": "Metal",
+        "img": "./src/assets/pfp/twyla.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Casta Fierce",
+        "genre": "Rock",
+        "img": "./src/assets/pfp/casta.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Catty Noir",
+        "genre": "Pop-Rock",
+        "img": "./src/assets/pfp/Catty Noir icon.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "Kiyomi Haunterly",
+        "genre": "J-pop",
+        "img": "./src/assets/pfp/Kiyomi Monster High icon.jpeg"
+      },
+      {
+        "id": 10,
+        "name": "Gigi Grant",
+        "genre": "Pop",
+        "img": "./src/assets/pfp/gigi.jpeg"
+      },
+      {
+        "id": 11,
+        "name": "Operetta",
+        "genre": "Nu-metal",
+        "img": "./src/assets/pfp/casta.jpeg"
+      },
+      {
+        "id": 12,
+        "name": "Clawdeen Wolf",
+        "genre": "Hip-hop",
+        "img": "./src/assets/pfp/𝓒𝓵𝓪𝔀𝓭𝓮𝓮𝓷 𝓦𝓸𝓵𝓯 ⊹ ࣪ ˖♡.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "Nefera De Nile",
+        "genre": "Pop",
+        "img": "./src/assets/pfp/nefera de nile.jpeg"
+      },
+      {
+        "id": 14,
+        "name": "Toralei Stripe",
+        "genre": "Punk",
+        "img": "./src/assets/pfp/toralei stripe aesthetic __ monster high.jpeg"
+      },
+      {
+        "id": 15,
+        "name": "River Stixx",
+        "genre": "Punk-rock",
+        "img": "./src/assets/pfp/ᨳׄ  ׅ 𝓘𝓬𝓸𝓷 𝓡𝓲𝓿𝓮𝓻˖ ࣪⭑.jpeg"
+      },
+      {
+        "id": 16,
+        "name": "Sarah Screams",
+        "genre": "Alternative",
+        "img": "./src/assets/pfp/Sarah Screams.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "CA Cupid",
+        "genre": "Dance-pop",
+        "img": "./src/assets/pfp/c_a cupid.jpeg"
+      },
+      {
+        "id": 18,
+        "name": "Gooliope Jellington",
+        "genre": "Circus-pop",
+        "img": "./src/assets/pfp/🎪🎠☢️.jpeg"
+      },
+      {
+        "id": 19,
+        "name": "Elle Dee",
+        "genre": "Electronic",
+        "img": "./src/assets/pfp/𝐄𝐋𝐋𝐄 𝐄𝐄𝐃𝐄𝐄 𝐈𝐂𝐎𝐍.jpeg"
+      }
+    ]
+  }

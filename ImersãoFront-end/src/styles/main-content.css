@@ -115,7 +115,7 @@
     color: #f0f0f0;
     font-size: 32px;
     font-weight: 700;
-    margin-bottom: 48px;
+    margin-bottom: 18px;
   }
   
   .playlist .session {
@@ -188,7 +188,7 @@
     background: rgb(163, 17, 17);
   }
   .card6 {
-    background: #f321b4;
+    background: rgb(243, 33, 180);
   }
   .card7 {
     background: rgb(142, 102, 172);
@@ -269,7 +269,7 @@
     padding: 16px;
     position: relative;
     transition: background-color 0.3s ease;
-    width: 100%;
+    width: 90%;
   }
   
   .artist-card:hover {
@@ -284,11 +284,11 @@
   }
   
   .artist-img {
-    height: 10%;
+    height: 100%;
     left: 0;
     position: absolute;
     top: 0;
-    width: 10%;
+    width: 100%;
     border-radius: 50%;
   }
   
@@ -314,6 +314,7 @@
     font-size: 16px;
     font-weight: 700;
     padding-block-end: 8px;
+    border-radius: 5px;
   }
   
   .artist-categorie {

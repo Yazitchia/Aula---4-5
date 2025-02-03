@@ -1,0 +1,118 @@
+{
+    "artists": [
+       {
+         "id": 1,
+         "name": "Viperine Gorgon",
+         "genre": "R&B",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738348751/viperine_gorgon.jpg"
+       },
+       {
+         "id": 2,
+         "name": "Zomby Gaga",
+         "genre": "Pop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346675/zomby.jpg"
+       },
+       {
+         "id": 3,
+         "name": "Moanica D'Kay",
+         "genre": "Hip Hop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346669/moanica.jpg"
+       },
+       {
+         "id": 4,
+         "name": "Draculaura",
+         "genre": "Country",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738345062/draculaura.jpg"
+       },
+       {
+         "id": 5,
+         "name": "Luna Motthews",
+         "genre": "Funk",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738349681/luna_mothews.jpg"
+       },
+       {
+         "id": 6,
+         "name": "Twyla Boogeyman",
+         "genre": "Metal",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346673/twyla.jpg"
+       },
+       {
+         "id": 7,
+         "name": "Casta Fierce",
+         "genre": "Rock",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346664/casta.jpg"
+       },
+       {
+         "id": 8,
+         "name": "Catty Noir",
+         "genre": "Pop-Rock",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346665/Catty%20Noir%20icon.jpg"
+       },
+       {
+         "id": 9,
+         "name": "Kiyomi Haunterly",
+         "genre": "J-pop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346668/Kiyomi%20Monster%20High%20icon.jpg"
+       },
+       {
+         "id": 10,
+         "name": "Gigi Grant",
+         "genre": "Pop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346667/gigi.jpg"
+       },
+       {
+         "id": 11,
+         "name": "Operetta",
+         "genre": "Nu-metal",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346671/operetta.jpg"
+       },
+       {
+         "id": 12,
+         "name": "Clawdeen Wolf",
+         "genre": "Hip-hop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738348749/clawdeen.jpg"
+       },
+       {
+         "id": 13,
+         "name": "Nefera De Nile",
+         "genre": "Pop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346670/nefera%20de%20nile.jpg"
+       },
+       {
+         "id": 14,
+         "name": "Toralei Stripe",
+         "genre": "Punk",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346673/toralei%20stripe%20aesthetic%20__%20monster%20"
+       },
+       {
+         "id": 15,
+         "name": "River Stixx",
+         "genre": "Punk-rock",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738348751/River_Styxx_icon.jpg"
+       },
+       {
+         "id": 16,
+         "name": "Sarah Screams",
+         "genre": "Alternative",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346672/Sarah%20Screams.jpg"
+       },
+       {
+         "id": 17,
+         "name": "CA Cupid",
+         "genre": "Dance-pop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738346666/c_a%20cupid.jpg"
+       },
+       {
+         "id": 18,
+         "name": "Gooliope Jellington",
+         "genre": "Circus-pop",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738348750/goo_jellington.jpg"
+       },
+       {
+         "id": 19,
+         "name": "Elle Dee",
+         "genre": "Electronic",
+         "urlImg": "https://res.cloudinary.com/dpotqrje3/image/upload/v1738348749/elle_dee.jpg"
+       }
+    ]
+   }

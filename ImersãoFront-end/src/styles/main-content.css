@@ -273,7 +273,7 @@
   }
   
   .artist-card:hover {
-    background-color: #252525;
+    background-color: #310b23;
   }
   
   .card-img {
@@ -330,13 +330,13 @@
   .play .fa-play {
     position: absolute;
     right: 10px;
-    top: 120px;
+    top: 90px;
     padding: 18px;
     background-color: #b91d92;
     border-radius: 100%;
-    font-size: 14px;
+    font-size: 18px;
     opacity: 0;
-    transition: all ease 0.4s;
+    transition: all ease 0.3s;
   }
   
   .artist-card:hover .play .fa-play {
